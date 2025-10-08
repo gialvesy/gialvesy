@@ -32,9 +32,9 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
-| **Nome do Projeto 1** | [🔗 Ver online](https://seu-link.com) | HTML / CSS / JS          |
-| **Nome do Projeto 2** | [🔗 Ver online](https://seu-link.com) | Node.js / Express / MySQL|
-| **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart           |
+| **Filmes e séries** | [🔗 Ver online](https://github.com/gialvesy/Filmes-S-ries) | HTML / CSS / JS          |
+| **Tabela do brasileirão** | [🔗 Ver online](https://github.com/gialvesy/Tabela-Brasileir-o) | Node.js / Express / MySQL|
+| **Meu Perfil** | [🔗 Ver online](https://github.com/gialvesy/MeuPerfiI02) | Flutter / Dart           |
 
 > 💡 Dica: Quando você publicar um projeto no GitHub Pages, coloque o link aqui!
 
@@ -42,16 +42,16 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 💡 Sobre Mim
 
-- 🎓 Atualmente estudo no **[Nome da sua escola]**
-- 💻 Estou aprendendo **[tecnologias que está aprendendo]**
-- 🎯 Meu objetivo é **[coloque seu objetivo, exemplo: ser desenvolvedor Full Stack]**
-- 📚 Gosto de aprender sobre **[áreas de interesse]**
-- ✝ [Se quiser, coloque uma frase ou versículo que te inspire]
+- 🎓 Atualmente estudo no **SESI HAGOP GUEREKMEZIAN**
+- 💻 Estou aprendendo **LINGUAGEM DE MARCAÇÃO, PROGRAMAÇÃO BACK-END**
+- 🎯 Meu objetivo é **SER DESENVOLVEDOR FULL STACK**
+- 📚 Gosto de aprender sobre **LINGUAGENS DE MARCAÇÃO, PROGRAMAÇÕES EM JAVA**
+-  ✝ "Pra quem tem fé, a vida nunca tem fim"
 
 ---
 
 ## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/seuusuario)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seuusuario)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gi.alvesy)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gialvesy)
